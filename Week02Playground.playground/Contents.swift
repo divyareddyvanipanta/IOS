@@ -272,3 +272,9 @@ switch x {
         print("No number is matching")
 }
 //3~4~5~
+
+for i in 0...10 {
+    if i.isMultiple(of: 2) {
+        print("hello")
+    }
+}
