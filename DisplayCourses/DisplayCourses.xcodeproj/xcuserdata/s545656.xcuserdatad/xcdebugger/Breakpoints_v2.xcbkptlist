@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0005550A-962E-42E4-94C1-80BD8F995C38"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C05CD901-023F-4C44-B3C4-51F8C99D8AC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DisplayCourses/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "courses"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C05CD901-023F-4C44-B3C4-51F8C99D8AC1 - 3dede0f7bda053fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisplayCourses.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DisplayCourses.ViewController"
+                  moduleName = "DisplayCourses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545656/Documents/GitHub/IOS/DisplayCourses/DisplayCourses/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "C05CD901-023F-4C44-B3C4-51F8C99D8AC1 - 35192f9104ee9438"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisplayCourses.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DisplayCourses.ViewController&gt;"
+                  moduleName = "DisplayCourses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545656/Documents/GitHub/IOS/DisplayCourses/DisplayCourses/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1358">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
