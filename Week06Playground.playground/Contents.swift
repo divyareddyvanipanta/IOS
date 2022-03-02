@@ -70,3 +70,6 @@ let volunteerCount = [1, 3, 40, 32, 2, 53, 77, 13]
 let volunteerSorted = volunteerCount.sorted{$0 < $1}
 print(volunteerSorted)//[1, 2, 3, 13, 32, 40, 53, 77]
 
+var weather = "its cold"
+weather.append("in sdjhf")
+print(weather.startIndex)
