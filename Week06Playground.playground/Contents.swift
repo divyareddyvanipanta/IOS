@@ -73,3 +73,13 @@ print(volunteerSorted)//[1, 2, 3, 13, 32, 40, 53, 77]
 var weather = "its cold"
 weather.append("in sdjhf")
 print(weather.startIndex)
+
+var c = "us"
+let p = {
+    print("\(c) is mine")
+    
+}
+c="ind"
+p()
+
+
