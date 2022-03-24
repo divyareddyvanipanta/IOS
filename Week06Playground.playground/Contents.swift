@@ -82,4 +82,8 @@ let p = {
 c="ind"
 p()
 
-
+var movies = ["movie1" : "Khiladi", "movie2": "RadheShyam", "movie3": "RRR"]
+print("movies")
+for (movie, name) in movies {
+    print("\(movie): \(name)")
+}
