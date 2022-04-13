@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
+        "state": {
+          "branch": null,
+          "revision": "2e63d0061da449ad0ed130768d05dceb1496de44",
+          "version": "5.12.5"
+        }
+      },
+      {
+        "package": "YouTubeiOSPlayerHelper",
+        "repositoryURL": "https://github.com/youtube/youtube-ios-player-helper",
+        "state": {
+          "branch": null,
+          "revision": "f57129cd4380ec0a74dd3a59da3270a1d653d59b",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
